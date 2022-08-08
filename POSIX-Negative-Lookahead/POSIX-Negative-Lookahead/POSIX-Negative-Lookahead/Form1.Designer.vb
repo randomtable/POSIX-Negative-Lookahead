@@ -29,6 +29,10 @@ Partial Class Form1
         Me.RichTextBox2 = New System.Windows.Forms.RichTextBox()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Button5 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'RichTextBox1
@@ -92,11 +96,50 @@ Partial Class Form1
         Me.Button4.Text = "Reset"
         Me.Button4.UseVisualStyleBackColor = True
         '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(476, 286)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(463, 17)
+        Me.Label2.TabIndex = 7
+        Me.Label2.Text = "For more complex patterns, you can use the classic negative lookahead:"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(476, 310)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(58, 17)
+        Me.Label3.TabIndex = 8
+        Me.Label3.Text = "Pattern:"
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(476, 330)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(494, 22)
+        Me.TextBox1.TabIndex = 9
+        Me.TextBox1.Text = "/(h|q)e(l|[1-3])lo w(o|p)r([7-9]|l)d/"
+        '
+        'Button5
+        '
+        Me.Button5.Location = New System.Drawing.Point(476, 358)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(494, 30)
+        Me.Button5.TabIndex = 10
+        Me.Button5.Text = "Generate"
+        Me.Button5.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(982, 453)
+        Me.Controls.Add(Me.Button5)
+        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.RichTextBox2)
@@ -118,5 +161,9 @@ Partial Class Form1
     Friend WithEvents RichTextBox2 As System.Windows.Forms.RichTextBox
     Friend WithEvents Button3 As System.Windows.Forms.Button
     Friend WithEvents Button4 As System.Windows.Forms.Button
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents Button5 As System.Windows.Forms.Button
 
 End Class

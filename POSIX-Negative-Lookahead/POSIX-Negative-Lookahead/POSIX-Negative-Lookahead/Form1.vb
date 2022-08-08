@@ -94,5 +94,16 @@
     Private Sub Button4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button4.Click
         RichTextBox1.Text = ""
         RichTextBox2.Text = ""
+        TextBox1.Text = ""
     End Sub
+
+    Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
+        RichTextBox2.Text = NLGen(TextBox1.Text)
+    End Sub
+
+    Public Function NLGen(ByVal input As String) As String
+        input = input.Replace("/", "")
+        Dim nl As String = "/^(?!" & input & ").*|" & input & "[\s\S]/"
+        Return nl
+    End Function
 End Class

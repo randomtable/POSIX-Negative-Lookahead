@@ -7,3 +7,12 @@ C:\Users\a.fiori\documents\visual studio 2010\Projects\POSIX-Negative-Lookahead\
 C:\Users\a.fiori\documents\visual studio 2010\Projects\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\obj\x86\Release\POSIX-Negative-Lookahead.exe
 C:\Users\a.fiori\documents\visual studio 2010\Projects\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\obj\x86\Release\POSIX-Negative-Lookahead.xml
 C:\Users\a.fiori\documents\visual studio 2010\Projects\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\obj\x86\Release\POSIX-Negative-Lookahead.pdb
+C:\Users\a.fiori\Downloads\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\obj\x86\Release\POSIX-Negative-Lookahead.exe
+C:\Users\a.fiori\Downloads\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\obj\x86\Release\POSIX-Negative-Lookahead.xml
+C:\Users\a.fiori\Downloads\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\obj\x86\Release\POSIX-Negative-Lookahead.pdb
+C:\Users\a.fiori\Downloads\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\bin\Release\POSIX-Negative-Lookahead.exe
+C:\Users\a.fiori\Downloads\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\bin\Release\POSIX-Negative-Lookahead.pdb
+C:\Users\a.fiori\Downloads\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\bin\Release\POSIX-Negative-Lookahead.xml
+C:\Users\a.fiori\Downloads\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\obj\x86\Release\POSIX_Negative_Lookahead.Form1.resources
+C:\Users\a.fiori\Downloads\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\obj\x86\Release\POSIX_Negative_Lookahead.Resources.resources
+C:\Users\a.fiori\Downloads\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead-main\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\POSIX-Negative-Lookahead\obj\x86\Release\POSIX-Negative-Lookahead.vbproj.GenerateResource.Cache
